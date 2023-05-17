@@ -1,7 +1,7 @@
-This final project is an Extension of Simple Shell (P2) to include:
-    - piping commands (ex. "ls -laF | tail") 
-    - bash commands (ex "echo hello world!")
-    - bash script execution
+This final project is an Extension of Simple Shell (P2) to include: <br/>
+    - piping commands (ex. "ls -laF | tail") <br/>
+    - bash commands (ex "echo hello world!") <br/>
+    - bash script execution <br/>
 
 In order to execute any bash commands or bash scipt, you must put the 
 shell in Bash Mode. This is done by inputing the command "bashmode".
